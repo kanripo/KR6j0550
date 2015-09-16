@@ -1,0 +1,4 @@
+001-0472c00	T 001-0472c	buddhist/T-taisho/T21/04/T21-0472.png
+001-0473a00	T 001-0473a	buddhist/T-taisho/T21/04/T21-0473.png
+001-0473b00	T 001-0473b	buddhist/T-taisho/T21/04/T21-0473.png
+001-0473c00	T 001-0473c	buddhist/T-taisho/T21/04/T21-0473.png
