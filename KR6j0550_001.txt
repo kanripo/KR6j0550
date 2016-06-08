@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:34:35.815763
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:26
 #+TITLE: 瑜伽集要焰口施食起教阿難陀緣由
 #+PROPERTY: CBETA_ID T21n1319
 #+PROPERTY: ID KR6j0550
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1319
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0550_T_000-0472b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0550_T_001-0472b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1319¶
-
- 瑜伽集要熖口施食起教阿難陀¶
+No. 1319¶
+瑜伽集要熖口施食起教阿難陀¶
 緣由¶
 ¶
 唐三藏沙門不空奉　詔譯¶
